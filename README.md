@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 <h1 align="center">Hi 👋, I'm Namous Yesmine</h1>
 <h3 align="center">A passionate Frontend Developer from Algeria</h3>
 
