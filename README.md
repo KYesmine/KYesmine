@@ -8,7 +8,7 @@
 <h3>🔍 About me</h3>
 
 <ul>
-  <li>🔭 I’m currently working on [Chargily](https://chargily.com)</li>
+  <li>🔭 I’m currently working on <a href="https://chargily.com">Chargily</a></li>
   <li>🌱 I’m currently learning <strong>Laravel</strong></li>
   <li>💬 Ask me about <strong>React</strong></li>
   <li>📫 How to reach me <strong>kyesmine09@gmail.com</strong></li>
